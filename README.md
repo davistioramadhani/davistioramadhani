@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/88581302/188273020-c8611385-7304-4a23-be4b-215499f6b4d2.png)
 # Introduction
 - Hello 👋 my name is Davistio Ramadhani and you can call me Rama
 - i'm currently 19 years old 🎉, and also learning at Gadjah Mada University majoring at Geophysics 
