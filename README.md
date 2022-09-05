@@ -6,8 +6,6 @@
 - You can reach me with my mails davistio.ramadhani@mail.ugm.ac.id or davistioramadhani@gmail.com
 - Thank you all for your time 👌
 
-![image](https://user-images.githubusercontent.com/88581302/188414088-dff7d826-874d-4956-8d26-07f6650670c3.png)
-
 <!---
 davistioramadhani/davistioramadhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
