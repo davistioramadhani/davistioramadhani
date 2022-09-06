@@ -5,9 +5,9 @@
 - I might be new at programing so... be nice guys to me 🙂
 - You can reach me with my mails davistio.ramadhani@mail.ugm.ac.id or davistioramadhani@gmail.com
 - Thank you all for your time 👌
+![TBtW](https://user-images.githubusercontent.com/88581302/188685492-02f5b2ce-d86d-491b-ad8d-de344f9de7f4.gif)
 
 <!---
 davistioramadhani/davistioramadhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://sailor-arashi.tumblr.com/post/685082388954497024)
