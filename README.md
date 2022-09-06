@@ -7,7 +7,7 @@
 - Thank you all for your time 👌
 
 
-![TBtW](https://user-images.githubusercontent.com/88581302/188685492-02f5b2ce-d86d-491b-ad8d-de344f9de7f4.gif)
+                         ![TBtW](https://user-images.githubusercontent.com/88581302/188685492-02f5b2ce-d86d-491b-ad8d-de344f9de7f4.gif)
 
 <!---
 davistioramadhani/davistioramadhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
